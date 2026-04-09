@@ -53,7 +53,7 @@ Certain regions consistently show higher churn
 📸 DB Image
 <img width="1294" height="731" alt="customer_churn_db" src="https://github.com/user-attachments/assets/5be471c7-3721-43b7-ad4b-5ddb423e5dc5" />
 
-##✅ Summary:
+✅ Summary:
 Top actionable insights:
 1. Focus retention campaigns on high-risk demographics: young, senior, or specific
 geographies.

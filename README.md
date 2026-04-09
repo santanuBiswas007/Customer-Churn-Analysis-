@@ -50,6 +50,6 @@ Customers churn at specific lifecycle stages
 Customers tend to churn at specific lifecycle stages
 Certain regions consistently show higher churn
 
-📸 DB Images
+📸 DB Image
 <img width="1294" height="731" alt="customer_churn_db" src="https://github.com/user-attachments/assets/5be471c7-3721-43b7-ad4b-5ddb423e5dc5" />
 
